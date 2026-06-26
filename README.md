@@ -1,4 +1,4 @@
-# Tarea-2-CdD
+# Clasificación-Ciencia-Datos
 Clasificación supervisada para un dataset
 
 
